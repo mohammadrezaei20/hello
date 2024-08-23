@@ -1,4 +1,3 @@
-
 body {
     padding: 0px;
     margin: 0px;
@@ -14,6 +13,10 @@ section span {
     line-height: 30px;
     font-weight: 500;
     padding-top: calc(27vh - 20pt);
+}
+
+span:hover {
+    cursor: pointer;
 }
 
 section {

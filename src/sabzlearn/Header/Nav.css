@@ -13,7 +13,7 @@ header h1 {
     margin: 0;
     margin-right: auto;
     padding: 0;
-    color: blue;
+    color: purple;
     /* display: inline; */
   
 }
@@ -30,7 +30,7 @@ header h1 {
 
 }
 nav {
-    
+   background-color: #ccc;
 }
 
 nav a {

@@ -5,7 +5,7 @@ export default function Nav() {
 
             <nav>
                 <h1>
-                    rommel-things
+                    rommel things you should know
                 </h1>
                 <div className='navlinks'>
                     <a href="#">Home</a>
