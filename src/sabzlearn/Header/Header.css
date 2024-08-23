@@ -1,0 +1,22 @@
+
+body {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background-color: #eee;
+}
+
+section span {
+    font-size: 1.5em;
+    text-align: center;
+    margin: 0;
+    display: block;
+    line-height: 30px;
+    font-weight: 500;
+    padding-top: calc(27vh - 20pt);
+}
+
+section {
+    height: 400px;
+    background-color: coral;
+}
