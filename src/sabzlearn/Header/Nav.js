@@ -16,4 +16,3 @@ export default function Nav() {
         </header>
     )
 }   
-da
