@@ -3,7 +3,7 @@ export default function Header(){
 return(
     <section>
         <span>
-            erwin-rommel
+            Erwin-Rommel
         </span>
     </section>
 )

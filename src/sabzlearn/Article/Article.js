@@ -3,7 +3,7 @@ export default function Article(){
     return(
        <article>
         <h1>
-            Life story of poor rommel
+            Life story of poor Rommel
         </h1>
         
         <p> Erwin Rommel (born November 15, 1891, Heidenheim, Germany—died October 14, 1944, Herrlingen, near Ulm) was a German field marshal who became the most popular general at home and gained the open respect of his enemies with his spectacular victories as commander of the Afrika Korps in World War II.
