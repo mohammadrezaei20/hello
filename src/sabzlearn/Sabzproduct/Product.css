@@ -1,0 +1,46 @@
+* {
+    background-color: white;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+h2{
+    text-align: center;
+}
+
+.shopping-card {
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-width: 200px;
+    text-align: center;
+    text-decoration: none;
+}
+
+button {
+    outline: 0;
+    text-decoration: none;
+    width: 100%;
+    max-height: 50px;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: yellow;
+    opacity: 0.6;
+    color: black;
+    border: 0;
+    transition: all 0.3s ease-out;
+    font-weight: 200;
+}
+
+button:hover {
+    opacity: 1;
+    transform: translateY(-1px);
+}
+
+.price {
+    font-size: large;
+}
